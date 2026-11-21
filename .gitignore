@@ -1,0 +1,10 @@
+# NetBeans build artifacts
+build/
+dist/
+
+# NetBeans private user-specific settings
+nbproject/private/
+
+# Compiled classes & temp files
+*.class
+*.log
